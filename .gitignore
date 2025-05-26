@@ -1,0 +1,14 @@
+# uv env
+.venv/
+
+# Python cache
+__pycache__/
+
+# Python bytecode
+*.py[cod]
+
+# Distribution / packaging
+.Python
+
+# Installer logs
+pip-log.txt
