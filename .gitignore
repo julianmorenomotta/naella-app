@@ -16,5 +16,5 @@ pip-log.txt
 # env
 .env
 
-# local data ignor the naella_app/data/
+# local data 
 backend/naella_app/data/*
