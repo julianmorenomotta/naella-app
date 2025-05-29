@@ -1,6 +1,9 @@
 # uv env
 .venv/
 
+# pytest cache
+.pytest_cache/
+
 # Python cache
 __pycache__/
 
