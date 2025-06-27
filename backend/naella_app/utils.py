@@ -27,7 +27,7 @@ def write_user_to_csv(user: User):
                 user.height,
                 user.current_weight,
                 user.ideal_weight,
-                user.fisical_activity_score,
+                user.physical_activity_score,
                 user.bmr,
                 user.calories,
                 user.protein,
